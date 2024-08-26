@@ -5,7 +5,7 @@ huggingface_hub
 matplotlib
 numpy
 onnxruntime
-opencv_python
+opencv-contrib-python
 Pillow
 pycocotools
 PyYAML
